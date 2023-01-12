@@ -143,7 +143,11 @@ Example command:
 - Twitter: [@Ngufor emmanuella](https://https//twitter.com/Ngufor-emmanuella)
 - LinkedIn: [Ngufor emmanuella](https://www.linkedin.com/in/Ngufor-emmanuella)
 
-👤 **Nowembabzi**
+👤 **Nowembabazi Nickson**
+- GitHub: [ @Nowembabazi](https://github.com/Nowembabazi)
+- Twitter: [@NowembabaziN](https://https//twitter.com/NowembabaziN)
+- LinkedIn: [nowembabazi-nickson](https://www.linkedin.com/in/nowembabazi-nickson)
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
