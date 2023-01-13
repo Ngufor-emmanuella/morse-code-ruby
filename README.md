@@ -139,9 +139,9 @@ Example command:
 
 👤 **Ngufor Emmanuella**
 
-- GitHub: [ @Ngufor emmanuella](https://github.com/Ngufor-emmanuella)
-- Twitter: [@Ngufor emmanuella](https://https//twitter.com/Ngufor-emmanuella)
-- LinkedIn: [Ngufor emmanuella](https://www.linkedin.com/in/Ngufor-emmanuella)
+- GitHub: [ @Ngufor-Emmanuella](https://github.com/Ngufor-emmanuella)
+- Twitter: [@Ngufor-Eemmanuella](https://https//twitter.com/Ngufor-emmanuella)
+- LinkedIn: [Ngufor-Eemmanuella](https://www.linkedin.com/in/Ngufor-emmanuella)
 
 👤 **Nowembabazi Nickson**
 - GitHub: [ @Nowembabazi](https://github.com/Nowembabazi)
